@@ -11,8 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.3.1"
+<<<<<<< HEAD
   },
   "dependencies": {
     "quixote": "^1.0.1"
+=======
+>>>>>>> 86f42af67c979312a35993ecbbd5fcb08d7a5fc6
   }
 }
